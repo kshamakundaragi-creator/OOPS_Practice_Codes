@@ -16,18 +16,18 @@ A collection of C++ programs developed as part of the Object-Oriented Programmin
 
 ---
 
-## Repository Structure
 
-```text
-Object Oriented Programming/
+Object Oriented Programming
+## Topics Covered
 
-── Programs/
-1 C++ Fundamentals/
-2 Classes and Objects/
-3 Member Functions and Constructors/
-4 Destructors and Static Members/
-5 Static and Friend Functions/
-6 Inheritance/
-7 Multilevel Inheritance and Access Control/
-
+- Classes & Objects
+- Constructors
+- Inheritance (Single, Multiple, Protected)
+- Polymorphism & Virtual Functions
+- Abstract Classes
+- Friend Classes
+- Static Variables
+- Pointers & `this` Pointer
+- Scope Resolution Operator
+- Strings
 ```
