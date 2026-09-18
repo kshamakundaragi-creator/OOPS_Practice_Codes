@@ -20,15 +20,14 @@ A collection of C++ programs developed as part of the Object-Oriented Programmin
 
 ```text
 Object Oriented Programming/
-│
-├── Programs/
-│   ├── C++ Fundamentals/
-│   ├── Classes and Objects/
-│   ├── Member Functions and Constructors/
-│   ├── Destructors and Static Members/
-│   ├── Static and Friend Functions/
-│   ├── Inheritance/
-│   └── Multilevel Inheritance and Access Control/
-│
-└── README.md
+
+── Programs/
+1 C++ Fundamentals/
+2 Classes and Objects/
+3 Member Functions and Constructors/
+4 Destructors and Static Members/
+5 Static and Friend Functions/
+6 Inheritance/
+7 Multilevel Inheritance and Access Control/
+
 ```
