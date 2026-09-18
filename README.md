@@ -22,8 +22,7 @@ Object Oriented Programming
 
 - Classes & Objects
 - Constructors
-- Inheritance (Single, Multiple, Protected)
-- Polymorphism & Virtual Functions
+- Inheritance (Single)
 - Abstract Classes
 - Friend Classes
 - Static Variables
